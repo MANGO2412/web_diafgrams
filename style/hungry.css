@@ -1,0 +1,46 @@
+body{
+    background-image: url(./../images/swiss-mushroom-burger.jpg);
+    background-size: contain;
+    /* background-repeat: space; */
+
+}
+
+
+.contener{
+    background-color: #f0f8ff;
+    width: 90%;
+    margin: auto;   
+}
+
+h1{
+    padding: 20px;
+    background-color: hwb(73 36% 0%);
+}
+
+.btns{
+    background-color: hwb(73 36% 0%);
+}
+
+form{
+    background-color: #ffffff;
+    width: 400px;
+    height: 500px;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#packages{
+    display: flex;
+    flex-direction: column;
+}
+
+
+footer{
+    background-color: black;
+    height: 150px;
+    color: #ffffff;
+    padding: 20px;
+}

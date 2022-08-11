@@ -1,0 +1,25 @@
+*{
+ margin: 0;
+}
+
+h1{
+  background-color: #aaef1f;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.cards{
+   margin: auto;
+   /* border: 1px solid black; */
+   width: 566px;
+   padding: 30px;
+}
+
+.cards  div{
+    border: 1px solid #000000;
+    padding: 20px;
+}
+
+.subTitle{
+    text-align: center;
+    border-bottom: 1px solid #000000;
+}
